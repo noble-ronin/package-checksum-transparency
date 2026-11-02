@@ -109,4 +109,4 @@ surfaced the gap this time.
 
 - [`package-provenance-data`](https://github.com/noble-ronin/package-provenance-data) — npm's opt-in, Sigstore-backed build provenance.
 - [`package-removed-versions`](https://github.com/noble-ronin/package-removed-versions) — how each registry's metadata goes quiet about a bad version.
-- Pairs with the dev.to article: [npm, PyPI and crates.io Hand You a Checksum and Ask You to Trust It. Go Doesn't Ask.](https://dev.to/ronin13/npm-pypi-and-cratesio-hand-you-a-checksum-and-ask-you-to-trust-it-go-doesnt-ask)
+- Pairs with the dev.to article: [npm, PyPI and crates.io Hand You a Checksum and Ask You to Trust It. Go Doesn't Ask.](https://dev.to/ronin13/npm-pypi-and-cratesio-hand-you-a-checksum-and-ask-you-to-trust-it-go-doesnt-ask-5e2i)
